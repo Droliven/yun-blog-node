@@ -1,6 +1,9 @@
-![项目结构图](https://upload-images.jianshu.io/upload_images/12890819-3348be07c69aa2b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+**[Postman Api 测试集地址 - By Joliven](https://www.getpostman.com/collections/05efe9f28ae3fd41555d)**
+
 
 ## 前言
+
+![项目结构图](https://upload-images.jianshu.io/upload_images/12890819-3348be07c69aa2b9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 blog-node 是采用了主流的前后端分离思想的，主里只讲 后端。
 
