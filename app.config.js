@@ -28,7 +28,7 @@ const { argv } = require('yargs');
 // };
 
 exports.MONGODB = {
-	uri: `mongodb://127.0.0.1:${argv.dbport || '27017'}/xuying`,
+	uri: `mongodb://127.0.0.1:${argv.dbport || '27017'}/yun-blog`,
 	user: argv.db_username || 'root',
 	pass: argv.db_password || 'rootroot',
   authSource: 'admin',
